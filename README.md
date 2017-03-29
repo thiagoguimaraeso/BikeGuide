@@ -9,4 +9,4 @@ BikeGuide se diferencia dos demais concorrentes pois a aplicação informa os lo
 
 Especificação do papel de cada membro
 
-####Bernardo Melo - Developer ####Cintila Vasconcelos - Developer ####Gabriely Almirante - Developer ####Thiago Guimaraes - Project Manager
+####Bernardo Melo - Developer. ####Cintila Vasconcelos - Developer ####Gabriely Almirante - Developer ####Thiago Guimaraes - Project Manager
