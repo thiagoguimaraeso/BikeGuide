@@ -1,4 +1,4 @@
-#BikeGuide
+##BikeGuide
 
 
 ## Ata de Reunião
@@ -25,12 +25,11 @@ Data         | Local
 * Aprofundamento no tema do projeto;
 
 ### Ações a serem tomadas
-Ação                    | Responsável   
------------------------ | -------------- 
-Estabelecer os horários | Toda a equipe   
-das reuniões            |   
------------------------ | --------------
-Definir o perfil do     | Toda a equipe
-usuário                 |                        
+Ação                                 | Responsável   
+------------------------------------ | -------------- 
+Estabelecer os horários das reuniões | Toda a equipe                 
+------------------------------------ | --------------
+Definir o perfil do usuário          | Toda a equipe
+                                     |                        
 
 
