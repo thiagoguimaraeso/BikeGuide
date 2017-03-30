@@ -28,8 +28,7 @@ Data         | Local
 Ação                                 | Responsável   
 ------------------------------------ | -------------- 
 Estabelecer os horários das reuniões | Toda a equipe                 
------------------------------------- | --------------
 Definir o perfil do usuário          | Toda a equipe
-                                     |                        
+                                                             
 
 
